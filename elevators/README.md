@@ -14,7 +14,7 @@ Python 3.x
 Django 3.x
 Django REST Framework 3.x
 Setup and Installation
-Clone the repository: git clone https://github.com/your-username/elevator-system.git
+Clone the repository: git clone https://github.com/muhammadadildeveloper999/Elevator_System.git
 Create a virtual environment: python -m venv env
 Activate the virtual environment.
 Install the required packages: pip install -r requirements.txt
